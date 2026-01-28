@@ -129,12 +129,33 @@ Open source and free forever.
 
 ### ☕ Support This Project
 
-If you find this helpful, consider buying me a coffee!
+If you find this helpful, consider supporting my work!
 
-<a href="https://buymeacoffee.com/affanmomin" target="_blank">
-  <img src=".github/bmc-qr.png" alt="Buy Me A Coffee QR Code" width="200"/>
-</a>
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/affanmomin)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="300">
+        <p><b>Buy Me A Coffee</b></p>
+        <a href="https://buymeacoffee.com/affanmomin" target="_blank">
+          <img src=".github/bmc-qr.png" alt="Buy Me A Coffee QR Code" width="200"/>
+        </a>
+        <br/>
+        <a href="https://buymeacoffee.com/affanmomin" target="_blank">
+          <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=flat-square&logo=buy-me-a-coffee" alt="Buy Me A Coffee" />
+        </a>
+      </td>
+      <td align="center" width="300">
+        <p><b>Support via OnlyChai (UPI)</b></p>
+        <a href="https://onlychai.neocities.org/support.html?name=Affan%20Momin&upi=7378607967%40ybl" target="_blank">
+          <img src=".github/onlychai-qr.png" alt="OnlyChai QR Code" width="200"/>
+        </a>
+        <br/>
+        <a href="https://onlychai.neocities.org/support.html?name=Affan%20Momin&upi=7378607967%40ybl" target="_blank">
+          <b>OnlyChai ✨</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 </div>
