@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/affanmomin/agent-workspace/compare/v1.0.3...v1.2.0) (2026-01-28)
+
+
+### Features
+
+* add OnlyChai support section to README ([234984e](https://github.com/affanmomin/agent-workspace/commit/234984e9a110ec6dfa2c53831e34ccff4c8abd47))
+
 ## [1.1.0](https://github.com/affanmomin/agent-workspace/compare/v1.0.3...v1.1.0) (2026-01-28)
 
 
