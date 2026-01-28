@@ -1,0 +1,59 @@
+{
+  "name": "@affanmomin/agent-workspace",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Customizable AI agent framework distribution for different project types",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "agent-kit": "./bin/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/cli/init.ts",
+    "test": "vitest",
+    "test:integration": "vitest run --config vitest.integration.config.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "cli",
+    "scaffold",
+    "development",
+    "automation"
+  ],
+  "author": "Affan Momin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/affanmomin/agent-workspace.git"
+  },
+  "homepage": "https://github.com/affanmomin/agent-workspace#readme",
+  "bugs": {
+    "url": "https://github.com/affanmomin/agent-workspace/issues"
+  },
+  "files": [
+    "dist",
+    "bin",
+    ".agent",
+    "README.md"
+  ],
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0",
+    "commander": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/inquirer": "^9.0.7",
+    "@types/fs-extra": "^11.0.4",
+    "typescript": "^5.3.3",
+    "tsx": "^4.7.0",
+    "vitest": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
